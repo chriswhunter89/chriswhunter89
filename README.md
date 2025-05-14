@@ -2,7 +2,7 @@
 
 <img src="https://github.com/chriswhunter89/chriswhunter89/blob/main/images/Github-banner.png?raw=true" alt="banner image with avatar that says Hey Guys, I'm chris!">
 
-Hey — I’m Chris, a DevOps Engineer based in London 🇬🇧 with a background in mechanical engineering and 3 years of hands-on experience in cloud infrastructure, CI/CD automation, and containerised deployments.
+Hey — I’m Chris, an Irish 🇮🇪 🍀 DevOps Engineer based in London with a background in mechanical engineering and 3 years of hands-on experience in cloud infrastructure, CI/CD automation, and containerised deployments 🚀
 
 I'm passionate about building robust developer platforms, scaling infrastructure with code, and enabling smooth software delivery through automation and modern tooling.
 
@@ -19,7 +19,7 @@ I'm passionate about building robust developer platforms, scaling infrastructure
 
 ### 🛠 Tech Stack & Tools
 `AWS` · `Kubernetes` · `Helm` · `Kafka (MSK)` · `Docker`  
-`Python (FastAPI)` · `Java (Spring Boot)` · `React`  
+`Python (FastAPI)` · `Java (Spring Boot)` · `Jenkins`  
 `GitLab CI / Drone CI` · `Dynatrace` · `PostgreSQL` · `Terraform (basic)` · `Linux` · `Bash`
 
 
