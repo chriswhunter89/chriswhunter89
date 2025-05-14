@@ -23,6 +23,6 @@ I'm passionate about building robust developer platforms, scaling infrastructure
 `GitLab CI / Drone CI` · `Dynatrace` · `PostgreSQL` · `Terraform (basic)` · `Linux` · `Bash`
 
 
-Chris You can also find me at:
+You can also find me at:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chriswhunter89&show_icons=true)  
+- [LinkedIn](https://www.linkedin.com/in/chriswhunter89)
